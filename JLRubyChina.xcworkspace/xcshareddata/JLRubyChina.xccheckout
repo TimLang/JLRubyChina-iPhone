@@ -5,84 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D7E329C1-831E-4961-BC5F-DCF0760536B7</string>
+	<string>F830874F-7287-416D-98C3-0C61F8116D4C</string>
 	<key>IDESourceControlProjectName</key>
 	<string>JLRubyChina</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9AD05F3E-EA8D-43E8-8580-FEF52AB65358</key>
-		<string>https://github.com/jimneylee/JLRubyChina-iPhone.git</string>
-		<key>9E00A75B-FA68-43F9-870B-823A2C062EEE</key>
-		<string>https://github.com/gotosleep/JASidePanels.git</string>
-		<key>B07F79FA-0F29-4371-8FAD-A46DA5303DD6</key>
-		<string>https://github.com/jimneylee/TSEmojiView.git</string>
-		<key>C3B94360-57F8-4374-A8FB-B2C4E455E2C6</key>
-		<string>https://github.com/jimneylee/JLNimbusTimeline.git</string>
-		<key>EE293B83-E835-4FD8-A290-FE0AC66375CB</key>
-		<string>https://github.com/jimneylee/MarkdownSyntaxEditor.git</string>
+		<key>68E78B95-A536-4F0A-833C-6FECA1EC7FF5</key>
+		<string>https://github.com/TimLang/JLRubyChina-iPhone.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>JLRubyChina.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9AD05F3E-EA8D-43E8-8580-FEF52AB65358</key>
+		<key>68E78B95-A536-4F0A-833C-6FECA1EC7FF5</key>
 		<string>..</string>
-		<key>9E00A75B-FA68-43F9-870B-823A2C062EEE</key>
-		<string>../vendor/JASidePanels</string>
-		<key>B07F79FA-0F29-4371-8FAD-A46DA5303DD6</key>
-		<string>../vendor/TSEmojiView</string>
-		<key>C3B94360-57F8-4374-A8FB-B2C4E455E2C6</key>
-		<string>../vendor/JLNimbusTimeline</string>
-		<key>EE293B83-E835-4FD8-A290-FE0AC66375CB</key>
-		<string>../vendor/MarkdownSyntaxEditor</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jimneylee/JLRubyChina-iPhone.git</string>
+	<string>https://github.com/TimLang/JLRubyChina-iPhone.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9AD05F3E-EA8D-43E8-8580-FEF52AB65358</string>
+	<string>68E78B95-A536-4F0A-833C-6FECA1EC7FF5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9E00A75B-FA68-43F9-870B-823A2C062EEE</string>
-			<key>IDESourceControlWCCName</key>
-			<string>JASidePanels</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C3B94360-57F8-4374-A8FB-B2C4E455E2C6</string>
-			<key>IDESourceControlWCCName</key>
-			<string>JLNimbusTimeline</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9AD05F3E-EA8D-43E8-8580-FEF52AB65358</string>
+			<string>68E78B95-A536-4F0A-833C-6FECA1EC7FF5</string>
 			<key>IDESourceControlWCCName</key>
 			<string>JLRubyChina-iPhone</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>EE293B83-E835-4FD8-A290-FE0AC66375CB</string>
-			<key>IDESourceControlWCCName</key>
-			<string>MarkdownSyntaxEditor</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B07F79FA-0F29-4371-8FAD-A46DA5303DD6</string>
-			<key>IDESourceControlWCCName</key>
-			<string>TSEmojiView</string>
 		</dict>
 	</array>
 </dict>
